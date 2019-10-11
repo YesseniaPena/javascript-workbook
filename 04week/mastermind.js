@@ -30,7 +30,7 @@ function getRandomInt(min, max) {
 }
 
 function generateHint() {
-	// your code here
+
 }
 
 function mastermind(guess) {
